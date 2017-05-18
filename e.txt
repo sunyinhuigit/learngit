@@ -1,1 +1,2 @@
 new git diff
+e.txt on hotfix
