@@ -1,1 +1,3 @@
 new git diff
+git branch testing 
+git checkout testing
